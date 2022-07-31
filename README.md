@@ -1,4 +1,4 @@
-## infra_actions
+# infra_actions
 Учебный проект для изучения работы GitHub Actions
 
 ### Инструкция по запуску
